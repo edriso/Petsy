@@ -1,5 +1,7 @@
 # petsy
 
+## It's the second project using vue/vuex of this toturial: [link](https://youtu.be/4deVCNJq3qc)
+
 ## Project setup
 ```
 npm install
