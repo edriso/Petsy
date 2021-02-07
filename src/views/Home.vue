@@ -1,6 +1,6 @@
 <template>
   <div id="home">
-    <h1 class="text-center text-danger mb-3">Adopt a new best friend!</h1>
+    <h1 class="text-center text-primary mb-3">Adopt a new best friend!</h1>
 
     <NewPet />
 
