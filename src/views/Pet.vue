@@ -1,5 +1,5 @@
 <template>
-  <div id="pet" v-if="pet.name">
+  <div id="pet" v-if="pet">
     <b-card
       :header="`${pet.name} (${pet.species})`"
       header-bg-variant="dark"
