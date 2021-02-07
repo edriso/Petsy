@@ -26,11 +26,11 @@ export default {
 }
 
 #navbar a:hover {
-  color: #444;
+  color: #2c3e50;
 }
 
 #navbar a.router-link-exact-active {
   font-weight: bold;
-  color: #dc3545;
+  color: #2c3e50;
 }
 </style>
